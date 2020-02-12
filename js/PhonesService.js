@@ -1,4 +1,4 @@
-const API_URL = `http://localhost:63342/phone-catalogue-static/api`;
+const API_URL = `https://a-gunderin.github.io/spa-on-vanilla-js/api`;
 
 const PhonesService = {
 

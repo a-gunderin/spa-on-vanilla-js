@@ -1,4 +1,6 @@
 # React like application on vanilla JS
+Live: https://a-gunderin.github.io/spa-on-vanilla-js/public/
+
 This is a test project (SPA) on vanilla JS.
 
 The project was written trying to follow the manner and concept of React. 
